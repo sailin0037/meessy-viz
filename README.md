@@ -63,6 +63,4 @@ Repository Purpose
 
 This repository serves as a portfolio of my ongoing work in data visualization and demonstrates my ability to use Tableau to analyze data and communicate insights through interactive visualizations.
 
-Author
 
-Data Visualization Portfolio
