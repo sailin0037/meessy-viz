@@ -5,3 +5,6 @@ here link https://public.tableau.com/authoring/mssyviz/Dashboard1#1
 
 week task 5
  here link https://public.tableau.com/authoring/plotat/Sheet1#1
+
+week task 6 
+  here link https://public.tableau.com/authoring/vuivg/Dashboard1#1
