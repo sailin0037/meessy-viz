@@ -27,6 +27,9 @@ An interactive Tableau dashboard developed as part of the Week 6 task. The proje
 Tableau Public:
 https://public.tableau.com/authoring/vuivg/Dashboard1#1
 
+week task 8
+https://public.tableau.com/authoring/gugsaa/Dashboard1#1
+
 Tools and Technologies
 Tableau Public
 Data Visualization
