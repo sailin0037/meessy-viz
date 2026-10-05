@@ -62,9 +62,21 @@ A Tableau visualization project completed as part of the Week 10 task.
 **Tableau Public:**
 https://public.tableau.com/authoring/viz_17897112914280/Dashboard1#1
 
-> **Note:** Week Task 9 and Week Task 10 currently use the same Tableau Public link. Replace the Week 10 link if it is a different dashboard.
+
 
 ---
+---
+
+### Week Task 11
+
+A Tableau visualization project completed as part of the Week 11 task.
+
+**Tableau Public:**
+https://public.tableau.com/authoring/hiy/Dashboard2#1
+
+---
+
+
 
 ## Tools and Technologies
 
