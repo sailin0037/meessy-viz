@@ -76,6 +76,17 @@ https://public.tableau.com/authoring/hiy/Dashboard2#1
 
 ---
 
+---
+
+### Week Task 12
+
+A Tableau visualization project completed as part of the Week 11 task.
+
+**Tableau Public:**
+https://public.tableau.com/authoring/vizss/Dashboard1#1
+
+---
+
 
 
 ## Tools and Technologies
