@@ -91,6 +91,10 @@ https://public.tableau.com/authoring/vizss/Dashboard1#1
 **link**
 https://public.tableau.com/app/profile/sriram.kumar2186/viz/tasky/Dashboard1
 
+## week task 14
+**link**
+https://public.tableau.com/authoring/task13_17937696308900/Dashboard1#1
+
 ## Tools and Technologies
 
 * **Tableau Public**
